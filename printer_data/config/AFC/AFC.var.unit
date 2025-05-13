@@ -80,7 +80,7 @@
             "map": "T3",
             "load": true,
             "prep": false,
-            "tool_loaded": false,
+            "tool_loaded": true,
             "loaded_to_hub": false,
             "material": null,
             "spool_id": "",
@@ -90,17 +90,17 @@
             "runout_lane": "lane3",
             "filament_status": "Not Ready",
             "filament_status_led": "#ff0000",
-            "status": null
+            "status": "Tool Unloading"
         }
     },
     "system": {
-        "current_load": null,
+        "current_load": "lane4",
         "num_units": 1,
         "num_lanes": 4,
         "num_extruders": 1,
         "extruders": {
             "extruder": {
-                "lane_loaded": ""
+                "lane_loaded": "lane4"
             }
         },
         "bypass": {
