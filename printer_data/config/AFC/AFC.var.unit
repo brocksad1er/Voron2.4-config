@@ -58,7 +58,7 @@
             "load": false,
             "prep": true,
             "tool_loaded": false,
-            "loaded_to_hub": true,
+            "loaded_to_hub": false,
             "material": null,
             "spool_id": "",
             "color": "",
@@ -67,7 +67,7 @@
             "runout_lane": "lane4",
             "filament_status": "Prep",
             "filament_status_led": "#ffffff",
-            "status": "Tool Loading"
+            "status": ""
         },
         "lane4": {
             "name": "lane4",
